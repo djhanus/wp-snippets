@@ -1,3 +1,3 @@
 # wp-snippets
 
-handy reference for common code snippets
+code references for common scripts and programming in Wordpress and website development
